@@ -1,0 +1,11 @@
+Begin
+
+	A = 5;
+	B = 10;
+	B = A / B;
+	
+	display "The sum of A + B is: ";
+	display C;
+
+
+End
