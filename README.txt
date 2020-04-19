@@ -17,7 +17,7 @@ Example Code:
 
 Begin
 
-	A = 5;
+	A = 50;
 	B = 10;
 	B = A / B;
 	
