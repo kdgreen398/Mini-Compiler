@@ -2,7 +2,7 @@
 University Assignment
 
 The purpose of this assignment was to design a small compiler that works with a particular language created for this project.
-
+Program also provides error feedback for improper syntax.
 Language syntax:
 Currently there are only 3 varibles(<var>) oif integer type that can be initalized: A, B, C
 
