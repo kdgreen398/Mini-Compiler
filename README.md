@@ -7,7 +7,7 @@ Language syntax:
 Currently there are only 3 varibles(<var>) oif integer type that can be initalized: A, B, C
 
 
-Programs must start with the BEGIN keyword and end with the END keyword
+Programs must start with the BEGIN keyword and end with the END keyword.
 Variable Declaration: <var> = <var> | <expression> ;
 Expression: <var> + | - | * | / <var>
 User input: input <var> ;
